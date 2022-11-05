@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bb8dc4d5dd1e5b40bc9d0c5854571c3, type: 3}
+  m_Name: Ingredients List
+  m_EditorClassIdentifier: 
+  ingredients:
+  - PhotoOfIngerdient: {fileID: -7111253340747138547, guid: 5cc810e37d13df144a08ceb9ce920e0c, type: 3}
+    Name: T Hushud
+    tagOfIngredient: 1
+    categoryOfIngredients: 1
+  - PhotoOfIngerdient: {fileID: 2262679713315778950, guid: 5cc810e37d13df144a08ceb9ce920e0c, type: 3}
+    Name: Tyber Pur
+    tagOfIngredient: 2
+    categoryOfIngredients: 0
+  - PhotoOfIngerdient: {fileID: -2526860816676682888, guid: 5cc810e37d13df144a08ceb9ce920e0c, type: 3}
+    Name: Tyber Pur
+    tagOfIngredient: 2
+    categoryOfIngredients: 0
+  - PhotoOfIngerdient: {fileID: -6502525599716352612, guid: 5cc810e37d13df144a08ceb9ce920e0c, type: 3}
+    Name: Tyber Pur
+    tagOfIngredient: 2
+    categoryOfIngredients: 0
+  - PhotoOfIngerdient: {fileID: -8193063743700921687, guid: 5cc810e37d13df144a08ceb9ce920e0c, type: 3}
+    Name: Tyber Pur
+    tagOfIngredient: 2
+    categoryOfIngredients: 0
+  - PhotoOfIngerdient: {fileID: -843723432027443415, guid: 5cc810e37d13df144a08ceb9ce920e0c, type: 3}
+    Name: Tyber Pur
+    tagOfIngredient: 2
+    categoryOfIngredients: 0
+  - PhotoOfIngerdient: {fileID: -2984318489230378461, guid: 5cc810e37d13df144a08ceb9ce920e0c, type: 3}
+    Name: Tyber Pur
+    tagOfIngredient: 2
+    categoryOfIngredients: 0
+  - PhotoOfIngerdient: {fileID: -2226140068944426204, guid: 5cc810e37d13df144a08ceb9ce920e0c, type: 3}
+    Name: Tyber Pur
+    tagOfIngredient: 2
+    categoryOfIngredients: 0
+  - PhotoOfIngerdient: {fileID: 2580564621979487409, guid: 5cc810e37d13df144a08ceb9ce920e0c, type: 3}
+    Name: Tyber Pur
+    tagOfIngredient: 2
+    categoryOfIngredients: 0
+  - PhotoOfIngerdient: {fileID: 8877724078789402486, guid: 5cc810e37d13df144a08ceb9ce920e0c, type: 3}
+    Name: Tyber Pur
+    tagOfIngredient: 2
+    categoryOfIngredients: 0
+  - PhotoOfIngerdient: {fileID: 7728390504862146989, guid: 5cc810e37d13df144a08ceb9ce920e0c, type: 3}
+    Name: Tyber Pur
+    tagOfIngredient: 2
+    categoryOfIngredients: 0
+  ind: 0
